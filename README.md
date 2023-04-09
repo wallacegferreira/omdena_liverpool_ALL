@@ -17,3 +17,34 @@ In more specific terms, them objective is to train machine learning and deep lea
 
 ![All and Hem cells](./images/all_hem.png)
 
+
+## Datasets
+
+ALL Challenge dataset of ISBI 2019 (C-NMC 2019)
+
+https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758223
+
+Challenge is split into 3 separate phases:
+
+### Train set composition:
+
+- Total subjects: 73, ALL (cancer): 47, Normal: 26
+
+- Total cell images: 10,661, ALL(cancer): 7272, Normal: 3389
+
+### Preliminary test set composition:
+
+- Total subjects: 28, ALL (cancer): 13, Normal: 15
+
+- Total cell images: 1867, ALL(cancer): 1219, Normal: 648
+
+### Final test set composition:
+
+- Total subjects: 17, ALL (cancer): 9, Normal: 8
+
+- Total cell images: 2586
+
+
+
+
+
