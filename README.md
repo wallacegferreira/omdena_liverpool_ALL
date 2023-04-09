@@ -15,5 +15,5 @@ The goal of the project is to build a model which will make early identification
 In more specific terms, them objective is to train machine learning and deep learning models for automatic identifiction/classification of healthy cels (hem) and cancer cells (all).
 
 
-![All and Hem cells](./images/all_hem.jpg)
+![All and Hem cells](./images/all_hem.png)
 
