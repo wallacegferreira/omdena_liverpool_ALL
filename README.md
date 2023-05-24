@@ -45,6 +45,32 @@ Challenge is split into 3 separate phases:
 - Total cell images: 2586
 
 
+## Modeling Approach
 
+![Flowchart](./images/flow_chart.png)
+
+*Image credits by: Owais Thair*
+
+
+## Classification Results
+
+![Experiments](./images/Results.png)
+*Image credits by: Project Team Results*
+
+
+![Confusion Martrices](./images/confusion_matrices.png)
+*Image credits by: Project Team Results*
+
+
+## Project GitHub Folder
+
+https://github.com/OmdenaAI/liverpool-chapter-detecting-pediatric-acute
+
+
+## Project WebApp Deployed
+
+https://liskibruh-omdena-liverpool-predicting-all-dashboard-home-1318ne.streamlit.app/
+
+![Web App](./images/web_app_main.png)
 
 
