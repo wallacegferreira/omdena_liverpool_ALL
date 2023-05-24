@@ -55,11 +55,11 @@ Challenge is split into 3 separate phases:
 ## Classification Results
 
 ![Experiments](./images/Results.png)
-*Image credits by: Project Team Results*
+*Image credits by: Project Team Results - Compiled by Owais Tahir*
 
 
 ![Confusion Martrices](./images/confusion_matrices.png)
-*Image credits by: Project Team Results*
+*Image credits by: Project Team Results - Compiled by Owais Tahir*
 
 
 ## Project GitHub Folder
